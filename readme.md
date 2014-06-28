@@ -18,3 +18,7 @@ void printf (char ** str) {
    fjkladj
    jkflsa 
    }
+
+
+int getName (string str) {
+ }
