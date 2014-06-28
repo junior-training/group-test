@@ -8,3 +8,7 @@ vn
 
 
 
+void main () {
+   int i;
+   printf ("hello world\n");
+   }
