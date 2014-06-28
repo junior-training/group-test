@@ -12,3 +12,9 @@ void main () {
    int i;
    printf ("hello world\n");
    }
+
+void printf (char ** str) {
+   fklajfka
+   fjkladj
+   jkflsa 
+   }
